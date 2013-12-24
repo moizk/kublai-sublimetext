@@ -1,4 +1,4 @@
-kublai-sublimetext
+Kublai
 ==================
 
 Sublime Text 2 Theme
