@@ -81,7 +81,7 @@
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
         "layer0.opacity": 1,
-        "layer0.tint": [191,97,106]
+        "layer0.tint": [255,255,255]
 
     },
     {
@@ -147,14 +147,14 @@
     {
         "class": "tab_label",
         "fade": true,
-        "fg": [101,115,127],
+        "fg": [170,170,170],
         "shadow_color": [25,25,25],
         "shadow_offset": [0, 0]
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "fg": [192,197,206],
+        "fg": [255,255,255],
         "shadow_color": [30,30,30]
     },
     {
@@ -316,7 +316,7 @@
 
     {
         "class": "sheet_container_control",
-        "layer0.tint": [43,48,59],
+        "layer0.tint": [34,34,34],
         "layer0.opacity": 1
     },
 
